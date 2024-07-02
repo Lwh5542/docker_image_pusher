@@ -1,2 +1,1 @@
-xhofe/alist
-messense/aliyundrive-webdav
+nginx
