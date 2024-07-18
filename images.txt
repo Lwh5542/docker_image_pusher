@@ -1,1 +1,1 @@
-nginx
+adolfintel/speedtest
